@@ -1,0 +1,39 @@
+{
+  "name": "school-api-node",
+  "version": "1.0.0",
+  "description": "api for school management infomation system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build",
+    "view": "nodemon dist/server",
+    "dev": "nodemon index.js"
+  },
+  "author": "Hamza Nawabi",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.0.1",
+    "express-validator": "^7.2.1",
+    "fs": "^0.0.1-security",
+    "helmet": "^8.1.0",
+    "jalaali-js": "^1.2.8",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "moment-timezone": "^0.6.0",
+    "multer": "^2.0.2",
+    "mysql2": "^3.14.3",
+    "node-fetch": "^3.3.2",
+    "openai": "^5.20.3",
+    "path": "^0.12.7",
+    "sanitize-html": "^2.17.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.10",
+    "nodemon": "^3.1.10"
+  }
+}
