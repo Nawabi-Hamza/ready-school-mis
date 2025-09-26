@@ -6,19 +6,23 @@
 
 # Demo Account (for testing)
 
+> **User:** `Admin`  
 > **Email:** `admin@gmail.com`  
 > **Password:** `admin123`
 
+> **User:** `HR`  
 > **Email:** `hr@gmail.com`  
 > **Password:** `admin123`
 
+> **User:** `Finance`  
 > **Email:** `sara@gmail.com`  
 > **Password:** `admin123`
 
+> **User:** `Teacher`  
 > **Email:** `zainab.nail@example.com@gmail.com`  
 > **Password:** `admin123`
 
-> ⚠️ This is a test account with limited permissions. Do **not** use in production.
+> ⚠️ This is a test account. Do **not** use in production.
 
 
 # FRONTEND 
