@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3307
--- Generation Time: Sep 23, 2025 at 01:57 PM
+-- Generation Time: Sep 28, 2025 at 01:52 PM
 -- Server version: 9.0.1
 -- PHP Version: 8.2.12
 
@@ -73,7 +73,9 @@ INSERT INTO `addresses` (`address_id`, `user_id`, `type`, `province`, `district`
 (47, 85, 'permanent', 'Samangan', 'Consectetur hic ull', 'Afghanistan', 'Ut magni assumenda e'),
 (48, 85, 'current', 'Nangarhar', 'Pariatur Et eaque a', 'Afghanistan', 'Aperiam recusandae '),
 (49, 86, 'permanent', 'Jowzjan', 'Dolorem nulla aute q', 'Afghanistan', 'Pariatur Nulla veli'),
-(50, 86, 'current', 'Paktia', 'Saepe cupiditate sun', 'Afghanistan', 'Ut autem dolor sit ');
+(50, 86, 'current', 'Paktia', 'Saepe cupiditate sun', 'Afghanistan', 'Ut autem dolor sit '),
+(51, 87, 'permanent', 'Baghlan', 'Nisi non dignissimos', 'Afghanistan', 'Dolorem quia et adip'),
+(52, 87, 'current', 'Nangarhar', 'Ducimus debitis ver', 'Afghanistan', 'Facere voluptatum si');
 
 -- --------------------------------------------------------
 
@@ -137,7 +139,8 @@ INSERT INTO `classes` (`class_id`, `class_name`, `class_code`, `class_status`, `
 (41, '10', '10th-A', 'Active', 'R-013', '01:00:00', '12:00:00', 1400, 20, '2025-09-03 09:35:51', '2025-09-03 09:35:51'),
 (42, '11', '11th-A', 'Active', 'R-014', '01:00:00', '12:00:00', 1500, 20, '2025-09-03 09:36:20', '2025-09-03 09:36:20'),
 (43, '12', '12th-A', 'Active', 'R-014', '01:00:00', '12:00:00', 1600, 30, '2025-09-03 09:36:46', '2025-09-03 09:36:46'),
-(51, '5', 'miragh', 'Active', '3434', '01:00:00', '18:00:00', 1000, 1, '2025-09-23 16:05:17', '2025-09-23 16:05:17');
+(51, '5', 'miragh', 'Active', '3434', '01:00:00', '18:00:00', 1000, 1, '2025-09-23 16:05:17', '2025-09-23 16:05:17'),
+(52, '10', 'ansar', 'Active', '615', '12:39:00', '10:40:00', 500, 6, '2025-09-28 16:00:52', '2025-09-28 16:00:52');
 
 -- --------------------------------------------------------
 
@@ -151,7 +154,7 @@ CREATE TABLE `class_students` (
   `class_id` int NOT NULL,
   `status` enum('active','promoted','graduated','left') DEFAULT 'active',
   `enrolled_at` timestamp NULL DEFAULT CURRENT_TIMESTAMP,
-  `academic_year` year NOT NULL
+  `academic_year` char(4) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 --
@@ -159,21 +162,24 @@ CREATE TABLE `class_students` (
 --
 
 INSERT INTO `class_students` (`id`, `student_id`, `class_id`, `status`, `enrolled_at`, `academic_year`) VALUES
-(106, 2, 32, 'active', '2025-09-04 13:35:47', '2024'),
-(107, 1, 42, 'active', '2025-09-07 11:45:00', '2024'),
-(108, 39, 42, 'active', '2025-09-07 11:45:01', '2024'),
-(112, 3, 30, 'active', '2024-04-08 10:57:32', '2024'),
-(116, 40, 31, 'active', '2025-09-09 07:08:33', '2025'),
-(119, 41, 39, 'active', '2025-09-10 10:42:18', '2024'),
-(120, 2, 29, 'active', '2025-09-10 10:54:45', '2025'),
-(123, 3, 31, 'active', '2025-09-13 08:03:57', '2025'),
-(124, 38, 30, 'active', '2025-09-13 08:03:58', '2025'),
-(129, 43, 33, 'active', '2025-09-17 15:36:45', '2025'),
-(130, 44, 33, 'active', '2025-09-17 15:36:46', '2025'),
-(131, 45, 33, 'active', '2025-09-17 15:37:45', '2025'),
-(132, 46, 33, 'active', '2025-09-17 15:37:46', '2025'),
-(133, 47, 33, 'active', '2025-09-17 15:37:48', '2025'),
-(143, 42, 30, 'active', '2025-09-23 09:39:24', '2025');
+(106, 2, 32, 'active', '2025-09-04 13:35:47', '1403'),
+(107, 1, 42, 'active', '2025-09-07 11:45:00', '1403'),
+(108, 39, 42, 'active', '2025-09-07 11:45:01', '1403'),
+(112, 3, 30, 'active', '2024-04-08 10:57:32', '1403'),
+(116, 40, 31, 'active', '2025-09-09 07:08:33', '1404'),
+(119, 41, 39, 'active', '2025-09-10 10:42:18', '1403'),
+(120, 2, 29, 'active', '2025-09-10 10:54:45', '1404'),
+(123, 3, 31, 'active', '2025-09-13 08:03:57', '1404'),
+(124, 38, 30, 'active', '2025-09-13 08:03:58', '1404'),
+(129, 43, 33, 'active', '2025-09-17 15:36:45', '1404'),
+(130, 44, 33, 'active', '2025-09-17 15:36:46', '1404'),
+(131, 45, 33, 'active', '2025-09-17 15:37:45', '1404'),
+(132, 46, 33, 'active', '2025-09-17 15:37:46', '1404'),
+(133, 47, 33, 'active', '2025-09-17 15:37:48', '1404'),
+(143, 42, 30, 'active', '2025-09-23 09:39:24', '1404'),
+(146, 50, 29, 'active', '2025-09-28 05:10:20', '1404'),
+(147, 51, 29, 'active', '2025-09-28 05:13:28', '1404'),
+(148, 52, 52, 'active', '2025-09-28 11:31:07', '1404');
 
 -- --------------------------------------------------------
 
@@ -564,18 +570,28 @@ CREATE TABLE `expense` (
   `expanse_id` int NOT NULL,
   `title` varchar(255) DEFAULT NULL,
   `description` varchar(255) DEFAULT NULL,
-  `number` varchar(50) DEFAULT NULL,
   `payment_amount` decimal(10,2) DEFAULT NULL,
+  `document` text,
   `expanse_user_id` int DEFAULT NULL,
-  `payment_date` date DEFAULT NULL
+  `status` enum('pending','accepted') CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci DEFAULT 'pending',
+  `payment_date` datetime DEFAULT CURRENT_TIMESTAMP
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 --
 -- Dumping data for table `expense`
 --
 
-INSERT INTO `expense` (`expanse_id`, `title`, `description`, `number`, `payment_amount`, `expanse_user_id`, `payment_date`) VALUES
-(1, 'Utilities', 'Monthly electricity and water bills', 'EXP001', 8000.00, 1, '2024-04-01');
+INSERT INTO `expense` (`expanse_id`, `title`, `description`, `payment_amount`, `document`, `expanse_user_id`, `status`, `payment_date`) VALUES
+(1, 'Buy 4 Solor', 'Monthly electricity and water bills, Monthly electricity and water bills, Monthly electricity and water bills, Monthly electricity and water bills, Monthly electricity and water bills', 8000.00, '1759048628235.png', 1, 'pending', '2024-04-01 03:13:32'),
+(2, 'Eligendi nostrum nec', 'Quos eum neque ab te', 77.00, '1759051200991_School MIS_.pdf', 2, 'pending', '2025-09-28 12:53:14'),
+(30, 'Elicritcity Month of 1403-2-13', 'electricity bill paid for whole school', 15000.00, '1759051531846_ChatGPT Image May 12, 2025, 03_21_33 PM.png', 2, 'pending', '2025-09-28 13:55:31'),
+(31, 'Ipsum expedita dolor', 'Aliquid reprehenderi', 1500.00, '1759052037472_ChatGPT Image May 12, 2025, 03_03_24 PM.png', 2, 'pending', '2025-09-28 14:03:57'),
+(32, 'Aut beatae dolorem i', 'Temporibus debitis c', 21.00, '1759052269828_School MIS.pdf', 2, 'pending', '2025-09-28 14:07:49'),
+(33, 'Velit et corrupti n', 'Cillum at nihil poss', 5.00, '1759052406043_ChatGPT Image May 12, 2025, 03_03_18 PM.png', 2, 'pending', '2025-09-28 14:10:06'),
+(34, 'Eu ducimus labore s', 'Consequatur Incidid', 19.00, NULL, 2, 'pending', '2025-09-28 14:10:56'),
+(35, 'Tempore ullam facil', 'Aut quas possimus d', 50.00, '1759052470077_School MIS.pdf', 2, 'pending', '2025-09-28 14:11:10'),
+(36, 'Dolores aperiam adip', 'Et architecto mollit', 650.00, '1759053242452_School MIS.pdf', 2, 'pending', '2025-09-28 14:24:02'),
+(37, 'chair', '100 chair bought for lab', 10000.00, '1759054121269_School MIS.pdf', 2, 'pending', '2025-09-28 14:38:41');
 
 -- --------------------------------------------------------
 
@@ -898,7 +914,69 @@ INSERT INTO `logs` (`log_id`, `user_id`, `action`, `date_time`) VALUES
 (303, 4, 'login', '2025-09-23 09:02:47'),
 (304, 2, 'login', '2025-09-23 11:29:44'),
 (305, 5, 'login', '2025-09-23 11:31:01'),
-(306, 4, 'login', '2025-09-23 11:31:38');
+(306, 4, 'login', '2025-09-23 11:31:38'),
+(307, 4, 'login', '2025-09-23 12:16:47'),
+(308, 5, 'login', '2025-09-23 14:52:53'),
+(309, 4, 'login', '2025-09-23 15:12:15'),
+(310, 4, 'login', '2025-09-23 18:00:56'),
+(311, 4, 'login', '2025-09-24 03:09:07'),
+(312, 4, 'login', '2025-09-24 06:41:22'),
+(313, 4, 'login', '2025-09-24 08:23:11'),
+(314, 4, 'login', '2025-09-24 09:21:41'),
+(315, 5, 'login', '2025-09-24 09:22:00'),
+(316, 73, 'login', '2025-09-24 09:22:20'),
+(317, 2, 'login', '2025-09-24 09:23:13'),
+(318, 4, 'login', '2025-09-24 09:41:28'),
+(319, 2, 'login', '2025-09-24 10:33:44'),
+(320, 5, 'login', '2025-09-24 10:39:48'),
+(321, 2, 'login', '2025-09-24 10:40:34'),
+(322, 2, 'login', '2025-09-24 12:10:49'),
+(323, 5, 'login', '2025-09-24 12:29:09'),
+(324, 2, 'login', '2025-09-24 12:36:26'),
+(325, 5, 'login', '2025-09-24 12:36:53'),
+(326, 2, 'login', '2025-09-24 12:45:41'),
+(327, 5, 'login', '2025-09-24 12:51:33'),
+(328, 2, 'login', '2025-09-24 13:07:33'),
+(329, 5, 'login', '2025-09-24 13:09:41'),
+(330, 2, 'login', '2025-09-24 13:12:31'),
+(331, 5, 'login', '2025-09-24 13:13:16'),
+(332, 2, 'login', '2025-09-24 13:14:07'),
+(333, 5, 'login', '2025-09-24 13:15:25'),
+(334, 5, 'login', '2025-09-24 13:56:51'),
+(335, 2, 'login', '2025-09-24 13:59:07'),
+(336, 2, 'login', '2025-09-25 13:58:57'),
+(337, 5, 'login', '2025-09-25 15:17:33'),
+(338, 4, 'login', '2025-09-25 15:18:55'),
+(339, 5, 'login', '2025-09-25 15:21:18'),
+(340, 2, 'login', '2025-09-25 15:21:58'),
+(341, 4, 'login', '2025-09-25 15:30:48'),
+(342, 2, 'login', '2025-09-25 15:39:36'),
+(343, 4, 'login', '2025-09-25 17:12:09'),
+(344, 4, 'login', '2025-09-26 06:19:40'),
+(345, 4, 'login', '2025-09-26 06:38:56'),
+(346, 4, 'login', '2025-09-26 06:46:39'),
+(347, 2, 'login', '2025-09-27 05:28:42'),
+(348, 2, 'login', '2025-09-27 11:30:15'),
+(349, 4, 'login', '2025-09-27 12:25:19'),
+(350, 2, 'login', '2025-09-27 12:37:44'),
+(351, 2, 'login', '2025-09-27 16:28:39'),
+(352, 4, 'login', '2025-09-27 16:28:51'),
+(353, 4, 'login', '2025-09-28 00:58:29'),
+(354, 2, 'login', '2025-09-28 01:05:57'),
+(355, 4, 'login', '2025-09-28 04:55:09'),
+(356, 2, 'login', '2025-09-28 05:14:14'),
+(357, 5, 'login', '2025-09-28 06:44:32'),
+(358, 2, 'login', '2025-09-28 06:49:30'),
+(359, 2, 'login', '2025-09-28 07:32:32'),
+(360, 2, 'login', '2025-09-28 07:36:13'),
+(361, 5, 'login', '2025-09-28 07:58:23'),
+(362, 2, 'login', '2025-09-28 08:00:26'),
+(363, 2, 'login', '2025-09-28 08:28:37'),
+(364, 2, 'login', '2025-09-28 09:51:21'),
+(365, 2, 'login', '2025-09-28 10:55:22'),
+(366, 4, 'login', '2025-09-28 11:24:45'),
+(367, 2, 'login', '2025-09-28 11:33:31'),
+(368, 4, 'login', '2025-09-28 11:49:54');
 
 -- --------------------------------------------------------
 
@@ -950,16 +1028,22 @@ CREATE TABLE `payment_type` (
   `payment_type_id` int NOT NULL,
   `payment_title` varchar(255) DEFAULT NULL,
   `price` int DEFAULT NULL,
-  `created_at` datetime DEFAULT NULL
+  `details` varchar(255) DEFAULT NULL,
+  `created_at` datetime DEFAULT NULL,
+  `status` enum('active','deleted') DEFAULT 'active'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 --
 -- Dumping data for table `payment_type`
 --
 
-INSERT INTO `payment_type` (`payment_type_id`, `payment_title`, `price`, `created_at`) VALUES
-(1, 'Book Fee', 1000, '2025-08-04 15:51:51'),
-(2, 'Admission Fee', 500, '2025-08-04 15:51:51');
+INSERT INTO `payment_type` (`payment_type_id`, `payment_title`, `price`, `details`, `created_at`, `status`) VALUES
+(1, 'Book Fee', 1000, 'Book Packages all subjects contain', '2025-08-04 15:51:51', 'active'),
+(3, '1st Class Book Package', 400, 'class 1st books are contains 8 book for first class', NULL, 'active'),
+(10, 'ID Card', 100, 'students id card with cover', NULL, 'active'),
+(15, '1st Class Fees ', 1000, 'for class first fees', '2025-09-27 15:51:32', 'deleted'),
+(16, 'uniform for kids', 1200, 'for kids 12 - 15 years old ', '2025-09-28 09:57:17', 'active'),
+(17, 'asd', 600, 'rts', '2025-09-28 14:37:40', 'active');
 
 -- --------------------------------------------------------
 
@@ -1014,14 +1098,26 @@ CREATE TABLE `salary_payment` (
 
 INSERT INTO `salary_payment` (`salary_id`, `user_id`, `paid_by`, `passed_by`, `payment_amount`, `bonus`, `deduction`, `guarantee_money`, `payment_status`, `payment_date`, `updated_at`) VALUES
 (3, 2, 2, 5, 13871.67, 500.00, 100.00, 12000, 'paid', '2025-08-14', '2025-09-14 12:03:29'),
-(4, 83, NULL, 5, 8622.67, 0.00, 0.00, 0, 'paid', '2025-09-14', '2025-09-14 12:02:57'),
-(5, 4, NULL, 5, 24809.90, 0.00, 0.00, 19998, 'pending', '2025-09-14', '2025-09-14 11:58:01'),
-(6, 57, NULL, 5, 218.13, 220.00, 0.00, 0, 'pending', '2025-09-14', '2025-09-14 11:58:50'),
-(7, 58, NULL, 5, 9445.20, 2000.00, 0.00, 0, 'pending', '2025-09-14', '2025-09-14 12:00:33'),
-(8, 60, NULL, 5, 194.50, 200.00, 0.00, 10, 'pending', '2025-09-14', '2025-09-14 12:00:45'),
-(9, 59, NULL, 5, 331.10, 0.00, 0.00, 14, 'pending', '2025-09-14', '2025-09-14 12:01:26'),
-(10, 62, NULL, 5, 25.53, 0.00, 0.00, 17, 'pending', '2025-09-14', '2025-09-14 12:01:42'),
-(11, 2, 2, 5, 21471.67, 0.00, 0.00, 4000, 'paid', '2025-07-14', '2025-09-14 12:12:15');
+(13, 2, 2, 5, 20593.33, 0.00, 0.00, 4000, 'paid', '2025-09-24', '2025-09-24 12:36:36'),
+(14, 4, 2, 5, 31727.70, 0.00, 0.00, 9990, 'paid', '2025-09-24', '2025-09-24 12:36:38'),
+(15, 57, 2, 5, 4586.93, 0.00, 0.00, 4000, 'paid', '2025-09-24', '2025-09-24 12:46:03'),
+(16, 59, 2, 5, 321.30, 0.00, 0.00, 0, 'paid', '2025-09-24', '2025-09-25 14:52:05'),
+(17, 62, 2, 5, 21.13, 0.00, 0.00, 17, 'paid', '2025-09-24', '2025-09-25 14:52:31'),
+(18, 2, 2, 5, 23471.67, 0.00, 0.00, 2000, 'paid', '2025-08-23', '2025-09-24 13:07:53'),
+(19, 4, NULL, 5, 33254.80, 0.00, 0.00, 10008, 'pending', '2025-08-23', '2025-09-24 13:07:02'),
+(20, 4, NULL, 5, 7353.00, 1000.00, 40000.00, 0, 'pending', '2025-07-23', '2025-09-24 13:10:30'),
+(21, 59, NULL, 5, 407.00, 100.00, 50.00, 0, 'pending', '2025-07-23', '2025-09-24 13:13:54'),
+(22, 60, 2, 5, 7800.00, 1000.00, 2000.00, 1000, 'paid', '2025-09-23', '2025-09-25 15:40:16'),
+(23, 63, 2, 5, 874.00, 1000.00, 100.00, 20, 'paid', '2025-09-23', '2025-09-25 14:52:38'),
+(24, 64, NULL, 5, 972.00, 1000.00, 12.00, 5, 'pending', '2025-09-23', '2025-09-24 13:21:45'),
+(25, 65, 2, 5, 402.00, 500.00, 12.00, 12, 'paid', '2025-09-23', '2025-09-28 10:06:32'),
+(26, 66, 2, 5, 550.00, 100.00, 50.00, 0, 'paid', '2025-09-23', '2025-09-28 10:06:40'),
+(27, 67, NULL, 5, 500.00, 0.00, 0.00, 0, 'pending', '2025-09-23', '2025-09-24 13:23:31'),
+(28, 68, NULL, 5, 500.00, 0.00, 0.00, 0, 'pending', '2025-09-23', '2025-09-24 13:34:09'),
+(29, 69, NULL, 5, 500.00, 0.00, 0.00, 0, 'pending', '2025-09-23', '2025-09-24 13:36:09'),
+(30, 57, NULL, 5, 7900.16, 1.00, 50.00, 1000, 'pending', '2025-08-23', '2025-09-24 13:47:57'),
+(31, 59, NULL, 5, 376.97, 107.00, 50.00, 14, 'pending', '2025-08-23', '2025-09-24 13:51:54'),
+(32, 2, 2, 5, 25900.00, 100.00, 500.00, 50, 'paid', '2025-04-21', '2025-09-24 13:59:38');
 
 -- --------------------------------------------------------
 
@@ -1154,7 +1250,46 @@ INSERT INTO `students` (`student_id`, `firstname`, `father_name`, `grand_father_
 (46, '', 'Minerva Velazquez', 'Roary Gilliam', 'Urozgan', '1992-07-28', 'STU-25-014', '$2b$10$9KgqVfK/U1u4VSiNGhGlbu5ATt/vHi2eMzrOvDfBR2uXrydR7FTrW', '98765432', 'Nesciunt ipsum ut ', 'Quod nostrud culpa ', 'Velit et do voluptas', 'Et non id sequi qua', 'Velit quia expedita ', 'Robin Zimmerman', 'Ferdinand Mckee', 'Tanner Blair', 'Ariel Frost', 'Moses Harding', 'Victoria Richard', 4, 'male', '2025-09-13 12:27:07', '2025-09-13 12:27:07', 'active', '+1 (845) 178-1755', 'huwyqidas@mailinator.com', 'Baker', '494', '1757750226727.PNG', '2015-10-05', 'Qui impedit delectu'),
 (47, 'ABC', 'Mira Donaldson', 'Owen Thornton', 'Helmand', '1978-03-01', 'STU-25-015', '$2b$10$2AYTN7QhfHfmmKkS9f.Vwex5sTs/q7lPg6EkagZMs7YB.Ap/cSeze', '75848372', 'Atque praesentium di', 'Aliquid debitis reru', 'Laborum ut at proide', 'Non deleniti et nesc', 'Voluptatem qui nihi', 'Heidi Ball', 'Hector Head', 'Lionel Stanley', 'Knox Glover', 'Karyn Kemp', 'Paula Ellison', 4, 'female', '2025-09-13 12:29:23', '2025-09-13 12:29:23', 'active', '+1 (703) 586-4795', 'mifilydoz@mailinator.com', 'Phillips', '257', '1757750362736.PNG', '2016-06-06', 'Quos sed assumenda q'),
 (48, 'Amber', 'Uta Wolf', 'Mariam Wise', 'Nimroz', '2025-09-22', 'STU-25-016', '$2b$10$ZPasGjOj9XlL7WVhXo875uV3MdSLgvzKlxfeB/5T64FHVt2fbYyqa', '3432-324-2343', 'Eius et laborum Ali', 'Dari', 'Minus debitis sit a', 'Nemo aperiam archite', 'Veritatis cum ex vol', 'Jameson Jacobson', 'Lilah Hampton', 'September Clements', 'Jescie Thomas', 'Sean Haley', 'Jade Clayton', 4, 'male', '2025-09-22 12:14:55', '2025-09-22 12:21:52', 'inactive', '+1 (433) 714-5115', 'xixa@mailinator.com', 'Mccarthy', '1929939', '1758527095055.png', '1965-09-07', 'Officiis deleniti pr'),
-(49, 'Beau', 'Alika Talley', 'Cecilia Charles', 'Jowzjan', '2025-09-08', 'STU-25-017', '$2b$10$xMi.Dj5ARCCzENBppVFznOOY4cbwDU2XGcfqHyu4jlT/cIkT2tfA6', '432-587-987', 'Ab atque et deserunt', 'Quia laboriosam com', 'Ut qui velit consec', 'Adipisci eaque accus', 'Corporis aliquid tem', 'Ingrid Oneal', 'Connor Hurley', 'Kevin Fischer', 'Ora Wood', 'Haviva Albert', 'Jameson Gibbs', 4, 'male', '2025-09-22 12:32:42', '2025-09-22 15:04:34', 'c_parcha', '+1 (923) 505-6813', 'havo@mailinator.com', 'Park', '316', '1758528162184.png', '1974-08-28', 'this student came with assas 34949 from ghulam haider khan scholl in class 4');
+(49, 'Beau', 'Alika Talley', 'Cecilia Charles', 'Jowzjan', '2025-09-08', 'STU-25-017', '$2b$10$xMi.Dj5ARCCzENBppVFznOOY4cbwDU2XGcfqHyu4jlT/cIkT2tfA6', '432-587-987', 'Ab atque et deserunt', 'Quia laboriosam com', 'Ut qui velit consec', 'Adipisci eaque accus', 'Corporis aliquid tem', 'Ingrid Oneal', 'Connor Hurley', 'Kevin Fischer', 'Ora Wood', 'Haviva Albert', 'Jameson Gibbs', 4, 'male', '2025-09-22 12:32:42', '2025-09-22 15:04:34', 'c_parcha', '+1 (923) 505-6813', 'havo@mailinator.com', 'Park', '316', '1758528162184.png', '1974-08-28', 'this student came with assas 34949 from ghulam haider khan scholl in class 4'),
+(50, 'Saboooooor', 'Noelani Gutierrez', 'Winifred Duran', 'Maidan Wardak', '2025-09-24', 'STU-25-018', '$2b$10$r5icU0NKqEqIe0vAoxd74OXyB1gJ60pbAcbh0WWSwB3hPNBXTbCV2', '231231', 'Est obcaecati commod', 'Cumque hic ea soluta', 'Fugit qui totam sit', 'Quod aliquip sit qu', 'In incididunt quis c', 'Blaine Berg', 'Gretchen Blevins', 'Aladdin Callahan', 'Rebecca Oconnor', 'Cynthia Rodriquez', 'Chanda Mcconnell', 4, 'female', '2025-09-24 14:13:07', '2025-09-24 14:13:07', 'active', '+1 (125) 193-1515', 'vicopeg@mailinator.com', 'Brock', '479', '1758706986679.png', '1977-10-05', 'Irure velit laborum'),
+(51, 'Lester', 'Zoe Daugherty', 'Rashad Harrison', 'Takhar', '2025-09-24', 'STU-25-019', '$2b$10$Cg9q8olTHzLoonQ83bdZBu6LWG2uZejbJqc3XrXxWP4VpD3Miynp.', '839492', 'Molestias ex qui min', 'Dari', 'Sint commodi quia d', 'Laborum voluptatem ', 'Dolor praesentium el', 'Kenyon Cantu', 'Jenette Pratt', 'Yasir Morton', 'Paula Bennett', 'Hedley Massey', 'Dane Franco', 4, 'male', '2025-09-28 09:43:14', '2025-09-28 09:43:14', 'active', '+1 (626) 963-4829', 'hywyciqe@mailinator.com', 'Christensen', '470', '1759036393912.png', '2000-10-03', 'Iure voluptas velit '),
+(52, 'hmza gul', 'farhad', 'Sandra Conrad', 'Daykundi', '2025-10-01', 'STU-25-020', '$2b$10$Fie.sdHwZ1Gg04fAf57FaeGlja.v8GmeOp6AVvWOEJJmeB0STpXQG', '123-32-123444', 'Velit velit natus ve', 'farsi', 'Facere quis eiusmod ', 'Eligendi lorem id s', 'Praesentium sunt est', 'Abigail Mccoy', 'Cooper Hendricks', 'Rooney Ratliff', 'Thomas Potts', 'Leo Christensen', 'Naomi Cooper', 4, 'female', '2025-09-28 15:58:41', '2025-09-28 15:58:41', 'active', '3434343', 'pipuxu@mailinator.com', 'Murray', '252', '1759058920387.png', '1938-09-28', 'Autem inventore dolo'),
+(53, 'hamza khan ', 'Gary Bray', 'Odessa Clark', 'Maidan Wardak', '2025-09-29', 'STU-25-021', '$2b$10$PvgHPCQ0NIkKagt/ra6DMuOXKb1OJMrzpM331nVLJ6896YrtilfuO', '7878-787878-777', 'Velit esse tempora l', 'Ad velit qui facilis', 'Eu aut cum quos sed ', 'Unde ea vel et vero ', 'Ratione voluptates q', 'Taylor Hughes', 'Solomon Page', 'Jessamine Hurst', 'Orson Carver', 'Lacey Tyler', 'Elliott Burris', 4, 'female', '2025-09-28 16:02:02', '2025-09-28 16:02:02', 'active', '+1 (772) 253-8216', 'vopedekujo@mailinator.com', 'Morrison', '444', '1759059122137.png', '2025-09-26', 'Quis fugiat et sapie');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `student_fees`
+--
+
+CREATE TABLE `student_fees` (
+  `fee_id` int NOT NULL,
+  `student_id` int NOT NULL,
+  `class_id` int NOT NULL,
+  `fee_amount` decimal(10,2) NOT NULL,
+  `discount` decimal(10,2) DEFAULT '0.00',
+  `paid_amount` decimal(10,2) NOT NULL DEFAULT '0.00',
+  `payment_date` date NOT NULL DEFAULT (curdate()),
+  `updated_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `status` enum('unpaid','pending','paid') CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci DEFAULT 'unpaid'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `student_fees`
+--
+
+INSERT INTO `student_fees` (`fee_id`, `student_id`, `class_id`, `fee_amount`, `discount`, `paid_amount`, `payment_date`, `updated_at`, `status`) VALUES
+(1, 46, 33, 1250.00, 0.00, 1250.00, '2025-09-28', '2025-09-28 03:20:37', 'paid'),
+(2, 47, 33, 1250.00, 100.00, 1150.00, '2025-09-28', '2025-09-28 03:20:55', 'pending'),
+(3, 3, 31, 1400.00, 0.00, 1400.00, '2025-09-28', '2025-09-28 03:30:55', 'paid'),
+(4, 44, 33, 1250.00, 0.00, 1250.00, '2025-09-28', '2025-09-28 03:35:05', 'paid'),
+(5, 42, 30, 1300.00, 200.00, 1100.00, '2025-09-23', '2025-09-28 03:36:13', 'pending'),
+(6, 41, 39, 1500.00, 0.00, 1500.00, '2025-09-23', '2025-09-28 03:36:20', 'paid'),
+(7, 46, 33, 1250.00, 0.00, 1250.00, '2025-08-23', '2025-09-28 03:40:21', 'paid'),
+(8, 47, 33, 1250.00, 50.00, 1200.00, '2025-08-23', '2025-09-28 03:40:37', 'pending'),
+(9, 3, 30, 1300.00, 0.00, 1300.00, '2024-07-22', '2025-09-28 05:18:29', 'paid'),
+(10, 45, 33, 1250.00, 0.00, 1250.00, '2025-09-23', '2025-09-28 10:06:52', 'paid'),
+(11, 51, 29, 1300.00, 100.00, 1200.00, '2025-09-23', '2025-09-28 10:07:06', 'pending');
 
 -- --------------------------------------------------------
 
@@ -1169,15 +1304,37 @@ CREATE TABLE `student_payment` (
   `payment_type` int DEFAULT NULL,
   `discount` decimal(10,2) DEFAULT NULL,
   `student_payment_user` int DEFAULT NULL,
-  `payment_date` date DEFAULT NULL
+  `payment_status` enum('pending','recieved') CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci DEFAULT 'pending',
+  `payment_date` datetime DEFAULT CURRENT_TIMESTAMP
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 --
 -- Dumping data for table `student_payment`
 --
 
-INSERT INTO `student_payment` (`payment_id`, `student_id`, `payment_amount`, `payment_type`, `discount`, `student_payment_user`, `payment_date`) VALUES
-(1, 1, 1000.00, 1, 0.00, 1, '2024-04-01');
+INSERT INTO `student_payment` (`payment_id`, `student_id`, `payment_amount`, `payment_type`, `discount`, `student_payment_user`, `payment_status`, `payment_date`) VALUES
+(1, 1, 1000.00, 1, 0.00, 1, 'pending', '2024-04-01 00:00:00'),
+(2, 3, 400.00, 3, 0.00, 2, 'recieved', '2025-09-23 00:00:00'),
+(3, 3, 80.00, 10, 20.00, 2, 'pending', '2025-09-27 00:00:00'),
+(4, 40, 1000.00, 1, 0.00, 2, 'recieved', '2025-09-27 00:00:00'),
+(5, 40, 90.00, 10, 10.00, 2, 'recieved', '2025-09-27 00:00:00'),
+(6, 42, 900.00, 1, 100.00, 2, 'pending', '2025-09-27 00:00:00'),
+(7, 42, 100.00, 10, 0.00, 2, 'recieved', '2025-09-27 00:00:00'),
+(8, 42, 400.00, 3, 0.00, 2, 'recieved', '2025-09-27 00:00:00'),
+(9, 44, 300.00, 3, 100.00, 2, 'pending', '2025-09-27 00:00:00'),
+(10, 44, 80.00, 10, 20.00, 2, 'recieved', '2025-09-27 00:00:00'),
+(11, 38, 900.00, 1, 100.00, 2, 'pending', '2025-09-27 00:00:00'),
+(12, 40, 400.00, 3, 0.00, 2, 'recieved', '2025-09-27 00:00:00'),
+(13, 50, 1000.00, 1, 0.00, 2, 'recieved', '2025-09-27 00:00:00'),
+(14, 38, 1000.00, 15, 0.00, 2, 'recieved', '2025-09-27 00:00:00'),
+(15, 3, 1000.00, 15, 0.00, 2, 'recieved', '2025-09-27 00:00:00'),
+(16, 40, 900.00, 15, 100.00, 2, 'pending', '2025-09-27 00:00:00'),
+(17, 38, 1000.00, 15, 0.00, 2, 'recieved', '2025-09-27 00:00:00'),
+(18, 42, 1000.00, 15, 0.00, 2, 'recieved', '2025-09-27 15:55:42'),
+(19, 3, 900.00, 1, 100.00, 2, 'pending', '2025-09-28 05:46:06'),
+(20, 3, 400.00, 3, 0.00, 2, 'recieved', '2025-09-28 05:46:19'),
+(21, 3, 600.00, 17, 0.00, 2, 'recieved', '2025-09-28 14:38:01'),
+(22, 52, 971.00, 1, 29.00, 2, 'pending', '2025-09-28 16:07:21');
 
 -- --------------------------------------------------------
 
@@ -1524,7 +1681,8 @@ INSERT INTO `users` (`user_id`, `username`, `password`, `role_id`, `firstname`, 
 (83, 'Shah Mahmod', '$2b$10$62u5ZEHZE66jlvzkj/r1j.b0DNq.wPw20QT4dWbspMDo4dqwCC/YO', 4, 'Shah', 'Khan', 'Ban', 'shah@gmail.com', '234789876', 'active', 9000.00, 'male', 'A+', '1994-06-09', 'BCS', 'Bacholar', '2025-09-14', '2026-09-14', 80.00, 9000.00, '25-033', '7862837468', '1757846698219.png', 1, '25-033', 'morning', '2025-09-14 15:14:58', 87623874, 'divorced'),
 (84, 'Samim Jan', '$2b$10$UBAXT3ZxwkRfuGuMrxnHCeqzyDk5xY18.UYZm/H0ACd15XvR6jLf6', 10, 'Samim', 'Khan', 'Azimi', 'samim@gmail.com', '123456789', 'active', 12000.00, 'male', 'B+', '2000-07-19', 'Finance', 'Bacholar', '2025-09-15', '2026-09-15', 500.00, 10000.00, '25-034', '2345-9234-342', '1757947424718.jpg', 1, '25-034', 'morning', '2025-09-15 19:13:44', 573628463, 'maried'),
 (85, 'خیرالله', '$2b$10$.v70UEOVo/Kqt7MgObVOFeJknESWuDh4xCFJmJ9ayZwtpJ6tEAEca', 7, 'Conan', 'Dustin Bond', 'Byers', 'tinetixuge@mailinator.com', '+1 (642) 197-8811', 'inactive', 6000.00, 'male', 'O-', '0733-04-03', 'Ipsam sunt architect', 'Bacholar', '0783-04-03', '0784-04-03', 72.00, 4000.00, '25-035', '3234-432-4321', '1758001804669.PNG', 1, '25-035', 'morning', '2025-09-16 10:20:04', 581, 'maried'),
-(86, 'nafuh', '$2b$10$bXrTcPJXUaHz0bVNaducJ..RH7VjxaTtBE/bYiGuyV3YJ/IHWYIOm', 7, 'Imogene', 'Karen Sparks', 'Alexander', 'nibyxyka@mailinator.com', '+1 (584) 743-1545', 'deleted', 15000.00, 'female', 'B+', '1977-09-12', 'Aut obcaecati eos a', '12th Graduated', '2025-09-16', '2027-09-21', 28.00, 1000.00, '25-036', '324234234', '1758004333648.jpg', 1, '25-036', 'morning', '2025-09-16 11:02:13', 84832, 'divorced');
+(86, 'nafuh', '$2b$10$bXrTcPJXUaHz0bVNaducJ..RH7VjxaTtBE/bYiGuyV3YJ/IHWYIOm', 7, 'Imogene', 'Karen Sparks', 'Alexander', 'nibyxyka@mailinator.com', '+1 (584) 743-1545', 'deleted', 15000.00, 'female', 'B+', '1977-09-12', 'Aut obcaecati eos a', '12th Graduated', '2025-09-16', '2027-09-21', 28.00, 1000.00, '25-036', '324234234', '1758004333648.jpg', 1, '25-036', 'morning', '2025-09-16 11:02:13', 84832, 'divorced'),
+(87, 'konybaru', '$2b$10$3kCwSTgDTOgkejRKcmPWi.Pf4GXME8wW5bWd2ktt7pMwlIqlCjbmu', 6, 'Fay', 'Axel Mcclain', 'Burton', 'hykyf@mailinator.com', '+1 (728) 432-4884', 'inactive', 2598.00, 'female', 'AB+', '1977-10-04', 'Id neque recusandae', '12th Graduated', '2025-09-28', '2026-10-08', 32.00, 17.00, '25-037', '34782', '1759046400512.png', 1, '25-037', 'morning', '2025-09-28 12:30:00', 154, 'single');
 
 -- --------------------------------------------------------
 
@@ -1671,6 +1829,14 @@ ALTER TABLE `students`
   ADD KEY `user_id` (`user_id`);
 
 --
+-- Indexes for table `student_fees`
+--
+ALTER TABLE `student_fees`
+  ADD PRIMARY KEY (`fee_id`),
+  ADD KEY `student_id` (`student_id`),
+  ADD KEY `class_id` (`class_id`);
+
+--
 -- Indexes for table `student_payment`
 --
 ALTER TABLE `student_payment`
@@ -1724,7 +1890,7 @@ ALTER TABLE `visitors`
 -- AUTO_INCREMENT for table `addresses`
 --
 ALTER TABLE `addresses`
-  MODIFY `address_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=51;
+  MODIFY `address_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=53;
 
 --
 -- AUTO_INCREMENT for table `branch`
@@ -1736,13 +1902,13 @@ ALTER TABLE `branch`
 -- AUTO_INCREMENT for table `classes`
 --
 ALTER TABLE `classes`
-  MODIFY `class_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=52;
+  MODIFY `class_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=53;
 
 --
 -- AUTO_INCREMENT for table `class_students`
 --
 ALTER TABLE `class_students`
-  MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=144;
+  MODIFY `id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=149;
 
 --
 -- AUTO_INCREMENT for table `class_teachers`
@@ -1766,13 +1932,13 @@ ALTER TABLE `emp_attendance`
 -- AUTO_INCREMENT for table `expense`
 --
 ALTER TABLE `expense`
-  MODIFY `expanse_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `expanse_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=38;
 
 --
 -- AUTO_INCREMENT for table `logs`
 --
 ALTER TABLE `logs`
-  MODIFY `log_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=307;
+  MODIFY `log_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=369;
 
 --
 -- AUTO_INCREMENT for table `marks`
@@ -1790,7 +1956,7 @@ ALTER TABLE `notifications`
 -- AUTO_INCREMENT for table `payment_type`
 --
 ALTER TABLE `payment_type`
-  MODIFY `payment_type_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `payment_type_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=18;
 
 --
 -- AUTO_INCREMENT for table `roles`
@@ -1802,7 +1968,7 @@ ALTER TABLE `roles`
 -- AUTO_INCREMENT for table `salary_payment`
 --
 ALTER TABLE `salary_payment`
-  MODIFY `salary_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
+  MODIFY `salary_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=33;
 
 --
 -- AUTO_INCREMENT for table `std_attendance`
@@ -1814,13 +1980,19 @@ ALTER TABLE `std_attendance`
 -- AUTO_INCREMENT for table `students`
 --
 ALTER TABLE `students`
-  MODIFY `student_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=50;
+  MODIFY `student_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=54;
+
+--
+-- AUTO_INCREMENT for table `student_fees`
+--
+ALTER TABLE `student_fees`
+  MODIFY `fee_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
 
 --
 -- AUTO_INCREMENT for table `student_payment`
 --
 ALTER TABLE `student_payment`
-  MODIFY `payment_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `payment_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=23;
 
 --
 -- AUTO_INCREMENT for table `subjects`
@@ -1844,7 +2016,7 @@ ALTER TABLE `timetable`
 -- AUTO_INCREMENT for table `users`
 --
 ALTER TABLE `users`
-  MODIFY `user_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=87;
+  MODIFY `user_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=88;
 
 --
 -- AUTO_INCREMENT for table `visitors`
@@ -1935,6 +2107,13 @@ ALTER TABLE `std_attendance`
 --
 ALTER TABLE `students`
   ADD CONSTRAINT `students_ibfk_2` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`);
+
+--
+-- Constraints for table `student_fees`
+--
+ALTER TABLE `student_fees`
+  ADD CONSTRAINT `student_fees_ibfk_1` FOREIGN KEY (`student_id`) REFERENCES `students` (`student_id`),
+  ADD CONSTRAINT `student_fees_ibfk_2` FOREIGN KEY (`class_id`) REFERENCES `classes` (`class_id`);
 
 --
 -- Constraints for table `student_payment`
