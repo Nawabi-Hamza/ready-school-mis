@@ -1,0 +1,5582 @@
+[
+  {
+    "class_id": 29,
+    "class_name": "1th-A",
+    "timetable": [
+      {
+        "day": "Saturday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 22,
+            "subject_name": "Arts",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#ECEFF1"
+          },
+          {
+            "period": 2,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 3,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 4,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 5,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 6,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 7,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#E0F2F1"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 2,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 3,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 4,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 5,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 6,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 7,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#E0F2F1"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 2,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 3,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 4,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 5,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 6,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 7,
+            "subject_id": 18,
+            "subject_name": "Sport",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#D1C4E9"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 2,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 3,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 4,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 5,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 6,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 7,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 2,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 3,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 4,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 73,
+            "teacher_name": "Zainab",
+            "subject_color": "#C5CAE9"
+          },
+          {
+            "period": 5,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 6,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 7,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8EAF6"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 2,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 3,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 4,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 5,
+            "subject_id": 22,
+            "subject_name": "Arts",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#ECEFF1"
+          },
+          {
+            "period": 6,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 7,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_id": 30,
+    "class_name": "1th-B",
+    "timetable": [
+      {
+        "day": "Saturday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 2,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 3,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 4,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 5,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 6,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 7,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#B3E5FC"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 2,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 3,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 4,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 5,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 6,
+            "subject_id": 18,
+            "subject_name": "Sport",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#D1C4E9"
+          },
+          {
+            "period": 7,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 2,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 3,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 4,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 5,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 6,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 7,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#E0F2F1"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 2,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 3,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 4,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 5,
+            "subject_id": 22,
+            "subject_name": "Arts",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#ECEFF1"
+          },
+          {
+            "period": 6,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 7,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8EAF6"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 2,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 3,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 4,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 5,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 6,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 7,
+            "subject_id": null,
+            "subject_name": null,
+            "teacher_id": null,
+            "teacher_name": null,
+            "subject_color": null
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 2,
+            "subject_id": 22,
+            "subject_name": "Arts",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#ECEFF1"
+          },
+          {
+            "period": 3,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 4,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 5,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 6,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 7,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#B3E5FC"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_id": 31,
+    "class_name": "2th-A",
+    "timetable": [
+      {
+        "day": "Saturday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 2,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 3,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 4,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 5,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 6,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 7,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 18,
+            "subject_name": "Sport",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#D1C4E9"
+          },
+          {
+            "period": 2,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 3,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 4,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 5,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 6,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 7,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 2,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 3,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 4,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 5,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 6,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 7,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 2,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 3,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 4,
+            "subject_id": null,
+            "subject_name": null,
+            "teacher_id": null,
+            "teacher_name": null,
+            "subject_color": null
+          },
+          {
+            "period": 5,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 6,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 7,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#FFEBEE"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 2,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 3,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 4,
+            "subject_id": 22,
+            "subject_name": "Arts",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#ECEFF1"
+          },
+          {
+            "period": 5,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 6,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 7,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#FFEBEE"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 22,
+            "subject_name": "Arts",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#ECEFF1"
+          },
+          {
+            "period": 2,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 3,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 4,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 5,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 6,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 62,
+            "teacher_name": "Masooda",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 7,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#B3E5FC"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_id": 32,
+    "class_name": "3th-A",
+    "timetable": [
+      {
+        "day": "Saturday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 2,
+            "subject_id": 22,
+            "subject_name": "Arts",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#ECEFF1"
+          },
+          {
+            "period": 3,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 4,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 5,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 6,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 7,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 2,
+            "subject_id": 18,
+            "subject_name": "Sport",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#D1C4E9"
+          },
+          {
+            "period": 3,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 4,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 5,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 6,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 7,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 2,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 3,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 4,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 5,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 6,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 7,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 22,
+            "subject_name": "Arts",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#ECEFF1"
+          },
+          {
+            "period": 2,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 3,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 4,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 5,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 6,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 7,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 2,
+            "subject_id": null,
+            "subject_name": null,
+            "teacher_id": null,
+            "teacher_name": null,
+            "subject_color": null
+          },
+          {
+            "period": 3,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 4,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 5,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 6,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 7,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 2,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 3,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 4,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 5,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 6,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 7,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_id": 33,
+    "class_name": "4th-A",
+    "timetable": [
+      {
+        "day": "Saturday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 73,
+            "teacher_name": "Zainab",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 2,
+            "subject_id": 30,
+            "subject_name": "Ejtemayat",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E0F7FA"
+          },
+          {
+            "period": 3,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 4,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 5,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 6,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 7,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": null,
+            "subject_name": null,
+            "teacher_id": null,
+            "teacher_name": null,
+            "subject_color": null
+          },
+          {
+            "period": 2,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 73,
+            "teacher_name": "Zainab",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 3,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 4,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 5,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 6,
+            "subject_id": 9,
+            "subject_name": "Science",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E8F5E9"
+          },
+          {
+            "period": 7,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 2,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 3,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 4,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 5,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 6,
+            "subject_id": 9,
+            "subject_name": "Science",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E8F5E9"
+          },
+          {
+            "period": 7,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 30,
+            "subject_name": "Ejtemayat",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E0F7FA"
+          },
+          {
+            "period": 2,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 3,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 4,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 5,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 73,
+            "teacher_name": "Zainab",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 6,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 7,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 22,
+            "subject_name": "Arts",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#ECEFF1"
+          },
+          {
+            "period": 2,
+            "subject_id": 18,
+            "subject_name": "Sport",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#D1C4E9"
+          },
+          {
+            "period": 3,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 4,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 5,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 6,
+            "subject_id": 9,
+            "subject_name": "Science",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E8F5E9"
+          },
+          {
+            "period": 7,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 73,
+            "teacher_name": "Zainab",
+            "subject_color": "#FFCCBC"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 73,
+            "teacher_name": "Zainab",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 2,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 3,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 4,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 5,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 6,
+            "subject_id": 22,
+            "subject_name": "Arts",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#ECEFF1"
+          },
+          {
+            "period": 7,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_id": 34,
+    "class_name": "4th-B",
+    "timetable": [
+      {
+        "day": "Saturday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 2,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 3,
+            "subject_id": 30,
+            "subject_name": "Ejtemayat",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E0F7FA"
+          },
+          {
+            "period": 4,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 5,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 73,
+            "teacher_name": "Zainab",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 6,
+            "subject_id": 22,
+            "subject_name": "Arts",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#ECEFF1"
+          },
+          {
+            "period": 7,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 2,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 3,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 4,
+            "subject_id": 9,
+            "subject_name": "Science",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E8F5E9"
+          },
+          {
+            "period": 5,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 6,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 7,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 30,
+            "subject_name": "Ejtemayat",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E0F7FA"
+          },
+          {
+            "period": 2,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 3,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 4,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 5,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 6,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 73,
+            "teacher_name": "Zainab",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 7,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": null,
+            "subject_name": null,
+            "teacher_id": null,
+            "teacher_name": null,
+            "subject_color": null
+          },
+          {
+            "period": 2,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 3,
+            "subject_id": 9,
+            "subject_name": "Science",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E8F5E9"
+          },
+          {
+            "period": 4,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 5,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 6,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 73,
+            "teacher_name": "Zainab",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 7,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 9,
+            "subject_name": "Science",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E8F5E9"
+          },
+          {
+            "period": 2,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 3,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 4,
+            "subject_id": 18,
+            "subject_name": "Sport",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#D1C4E9"
+          },
+          {
+            "period": 5,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 73,
+            "teacher_name": "Zainab",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 6,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 7,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 2,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 3,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 73,
+            "teacher_name": "Zainab",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 4,
+            "subject_id": 22,
+            "subject_name": "Arts",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#ECEFF1"
+          },
+          {
+            "period": 5,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 6,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 7,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_id": 35,
+    "class_name": "5th-A",
+    "timetable": [
+      {
+        "day": "Saturday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 2,
+            "subject_id": 18,
+            "subject_name": "Sport",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#D1C4E9"
+          },
+          {
+            "period": 3,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 4,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 5,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 6,
+            "subject_id": 9,
+            "subject_name": "Science",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E8F5E9"
+          },
+          {
+            "period": 7,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 2,
+            "subject_id": 30,
+            "subject_name": "Ejtemayat",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E0F7FA"
+          },
+          {
+            "period": 3,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 4,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 5,
+            "subject_id": 22,
+            "subject_name": "Arts",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#ECEFF1"
+          },
+          {
+            "period": 6,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 7,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 2,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 3,
+            "subject_id": 9,
+            "subject_name": "Science",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E8F5E9"
+          },
+          {
+            "period": 4,
+            "subject_id": 30,
+            "subject_name": "Ejtemayat",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E0F7FA"
+          },
+          {
+            "period": 5,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 6,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 7,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 2,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 3,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 4,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 5,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 6,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 7,
+            "subject_id": 9,
+            "subject_name": "Science",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E8F5E9"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 2,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 3,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 4,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 5,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 6,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 7,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": null,
+            "subject_name": null,
+            "teacher_id": null,
+            "teacher_name": null,
+            "subject_color": null
+          },
+          {
+            "period": 2,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 3,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 4,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 5,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 6,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 7,
+            "subject_id": 22,
+            "subject_name": "Arts",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#ECEFF1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_id": 36,
+    "class_name": "5th-B",
+    "timetable": [
+      {
+        "day": "Saturday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 2,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 3,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 4,
+            "subject_id": 9,
+            "subject_name": "Science",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E8F5E9"
+          },
+          {
+            "period": 5,
+            "subject_id": 30,
+            "subject_name": "Ejtemayat",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E0F7FA"
+          },
+          {
+            "period": 6,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 7,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 2,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 3,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 4,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 5,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 6,
+            "subject_id": null,
+            "subject_name": null,
+            "teacher_id": null,
+            "teacher_name": null,
+            "subject_color": null
+          },
+          {
+            "period": 7,
+            "subject_id": 22,
+            "subject_name": "Arts",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#ECEFF1"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 2,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 3,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 4,
+            "subject_id": 18,
+            "subject_name": "Sport",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#D1C4E9"
+          },
+          {
+            "period": 5,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 6,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 7,
+            "subject_id": 9,
+            "subject_name": "Science",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E8F5E9"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 2,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 3,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 4,
+            "subject_id": 30,
+            "subject_name": "Ejtemayat",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E0F7FA"
+          },
+          {
+            "period": 5,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 6,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 7,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 2,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 3,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 4,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 5,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 6,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 7,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 2,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 3,
+            "subject_id": 22,
+            "subject_name": "Arts",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#ECEFF1"
+          },
+          {
+            "period": 4,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 5,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 6,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 7,
+            "subject_id": 9,
+            "subject_name": "Science",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E8F5E9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_id": 37,
+    "class_name": "6th-A",
+    "timetable": [
+      {
+        "day": "Saturday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 2,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 3,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 4,
+            "subject_id": 18,
+            "subject_name": "Sport",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#D1C4E9"
+          },
+          {
+            "period": 5,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 6,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 7,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 2,
+            "subject_id": 30,
+            "subject_name": "Ejtemayat",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E0F7FA"
+          },
+          {
+            "period": 3,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 4,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 5,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 6,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 7,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 2,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 3,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 4,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 5,
+            "subject_id": 30,
+            "subject_name": "Ejtemayat",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E0F7FA"
+          },
+          {
+            "period": 6,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 7,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 65,
+            "teacher_name": "Safia Mohamadi",
+            "subject_color": "#F5F5F5"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 2,
+            "subject_id": 9,
+            "subject_name": "Science",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E8F5E9"
+          },
+          {
+            "period": 3,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 4,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 5,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 6,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 7,
+            "subject_id": 22,
+            "subject_name": "Arts",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#ECEFF1"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": null,
+            "subject_name": null,
+            "teacher_id": null,
+            "teacher_name": null,
+            "subject_color": null
+          },
+          {
+            "period": 2,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 3,
+            "subject_id": 9,
+            "subject_name": "Science",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E8F5E9"
+          },
+          {
+            "period": 4,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 5,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 69,
+            "teacher_name": "Razia",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 6,
+            "subject_id": 22,
+            "subject_name": "Arts",
+            "teacher_id": 71,
+            "teacher_name": "Husa",
+            "subject_color": "#ECEFF1"
+          },
+          {
+            "period": 7,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 68,
+            "teacher_name": "Afifa",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 2,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 63,
+            "teacher_name": "Mozhda Said",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 3,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 64,
+            "teacher_name": "Soria Ghani",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 4,
+            "subject_id": 9,
+            "subject_name": "Science",
+            "teacher_id": 72,
+            "teacher_name": "Aysha",
+            "subject_color": "#E8F5E9"
+          },
+          {
+            "period": 5,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 67,
+            "teacher_name": "Najila",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 6,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 66,
+            "teacher_name": "Zahra",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 7,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 70,
+            "teacher_name": "Madina",
+            "subject_color": "#E8E8E8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_id": 38,
+    "class_name": "7th-A",
+    "timetable": [
+      {
+        "day": "Saturday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 2,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 3,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 4,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 5,
+            "subject_id": 24,
+            "subject_name": "Biology",
+            "teacher_id": 81,
+            "teacher_name": "Dawood",
+            "subject_color": "#FBE9E7"
+          },
+          {
+            "period": 6,
+            "subject_id": 21,
+            "subject_name": "Geography",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FFE0B2"
+          },
+          {
+            "period": 7,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#C5CAE9"
+          },
+          {
+            "period": 2,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 3,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 4,
+            "subject_id": 20,
+            "subject_name": "History",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FAFAFA"
+          },
+          {
+            "period": 5,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 6,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 7,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#F1F8E9"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#C5CAE9"
+          },
+          {
+            "period": 2,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 3,
+            "subject_id": 20,
+            "subject_name": "History",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FAFAFA"
+          },
+          {
+            "period": 4,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 5,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 6,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          },
+          {
+            "period": 7,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#FFEBEE"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 2,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#C5CAE9"
+          },
+          {
+            "period": 3,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 4,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          },
+          {
+            "period": 5,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 6,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 7,
+            "subject_id": 18,
+            "subject_name": "Sport",
+            "teacher_id": 81,
+            "teacher_name": "Dawood",
+            "subject_color": "#D1C4E9"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 2,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 3,
+            "subject_id": null,
+            "subject_name": null,
+            "teacher_id": null,
+            "teacher_name": null,
+            "subject_color": null
+          },
+          {
+            "period": 4,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 5,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 6,
+            "subject_id": 24,
+            "subject_name": "Biology",
+            "teacher_id": 81,
+            "teacher_name": "Dawood",
+            "subject_color": "#FBE9E7"
+          },
+          {
+            "period": 7,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 2,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 3,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          },
+          {
+            "period": 4,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 5,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 6,
+            "subject_id": 21,
+            "subject_name": "Geography",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FFE0B2"
+          },
+          {
+            "period": 7,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#F5F5F5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_id": 39,
+    "class_name": "8th-A",
+    "timetable": [
+      {
+        "day": "Saturday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 2,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          },
+          {
+            "period": 3,
+            "subject_id": null,
+            "subject_name": null,
+            "teacher_id": null,
+            "teacher_name": null,
+            "subject_color": null
+          },
+          {
+            "period": 4,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#C5CAE9"
+          },
+          {
+            "period": 5,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 6,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 7,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E0F2F1"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 21,
+            "subject_name": "Geography",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FFE0B2"
+          },
+          {
+            "period": 2,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 3,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 4,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 5,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 6,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 7,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#F5F5F5"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 2,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 3,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 4,
+            "subject_id": 18,
+            "subject_name": "Sport",
+            "teacher_id": 81,
+            "teacher_name": "Dawood",
+            "subject_color": "#D1C4E9"
+          },
+          {
+            "period": 5,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          },
+          {
+            "period": 6,
+            "subject_id": 24,
+            "subject_name": "Biology",
+            "teacher_id": 81,
+            "teacher_name": "Dawood",
+            "subject_color": "#FBE9E7"
+          },
+          {
+            "period": 7,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 2,
+            "subject_id": 21,
+            "subject_name": "Geography",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FFE0B2"
+          },
+          {
+            "period": 3,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 4,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 5,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 6,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#C5CAE9"
+          },
+          {
+            "period": 7,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 20,
+            "subject_name": "History",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FAFAFA"
+          },
+          {
+            "period": 2,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 3,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 4,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 5,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 6,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#C5CAE9"
+          },
+          {
+            "period": 7,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#E8EAF6"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 2,
+            "subject_id": 24,
+            "subject_name": "Biology",
+            "teacher_id": 81,
+            "teacher_name": "Dawood",
+            "subject_color": "#FBE9E7"
+          },
+          {
+            "period": 3,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 4,
+            "subject_id": 20,
+            "subject_name": "History",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FAFAFA"
+          },
+          {
+            "period": 5,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 6,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 7,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_id": 40,
+    "class_name": "9th-A",
+    "timetable": [
+      {
+        "day": "Saturday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          },
+          {
+            "period": 2,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 3,
+            "subject_id": 21,
+            "subject_name": "Geography",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FFE0B2"
+          },
+          {
+            "period": 4,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 5,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 6,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 7,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FFCCBC"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          },
+          {
+            "period": 2,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 3,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 4,
+            "subject_id": null,
+            "subject_name": null,
+            "teacher_id": null,
+            "teacher_name": null,
+            "subject_color": null
+          },
+          {
+            "period": 5,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 6,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 7,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#C5CAE9"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 2,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 3,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 4,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 5,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 6,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 7,
+            "subject_id": 20,
+            "subject_name": "History",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FAFAFA"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 2,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 3,
+            "subject_id": 13,
+            "subject_name": "Quran",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FFCCBC"
+          },
+          {
+            "period": 4,
+            "subject_id": 24,
+            "subject_name": "Biology",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#FBE9E7"
+          },
+          {
+            "period": 5,
+            "subject_id": 21,
+            "subject_name": "Geography",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FFE0B2"
+          },
+          {
+            "period": 6,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 7,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#E8EAF6"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 2,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#C5CAE9"
+          },
+          {
+            "period": 3,
+            "subject_id": 24,
+            "subject_name": "Biology",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#FBE9E7"
+          },
+          {
+            "period": 4,
+            "subject_id": 20,
+            "subject_name": "History",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FAFAFA"
+          },
+          {
+            "period": 5,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          },
+          {
+            "period": 6,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 7,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#FFEBEE"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 2,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 3,
+            "subject_id": 12,
+            "subject_name": "Arabic",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#F1F8E9"
+          },
+          {
+            "period": 4,
+            "subject_id": 18,
+            "subject_name": "Sport",
+            "teacher_id": 81,
+            "teacher_name": "Dawood",
+            "subject_color": "#D1C4E9"
+          },
+          {
+            "period": 5,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          },
+          {
+            "period": 6,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 7,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#C5CAE9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_id": 41,
+    "class_name": "10th-A",
+    "timetable": [
+      {
+        "day": "Saturday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 21,
+            "subject_name": "Geography",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FFE0B2"
+          },
+          {
+            "period": 2,
+            "subject_id": 24,
+            "subject_name": "Biology",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#FBE9E7"
+          },
+          {
+            "period": 3,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          },
+          {
+            "period": 4,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#C5CAE9"
+          },
+          {
+            "period": 5,
+            "subject_id": 26,
+            "subject_name": "Geology",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#E1F5FE"
+          },
+          {
+            "period": 6,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 7,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#FFEBEE"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 2,
+            "subject_id": 20,
+            "subject_name": "History",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FAFAFA"
+          },
+          {
+            "period": 3,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 4,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 5,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 6,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          },
+          {
+            "period": 7,
+            "subject_id": 28,
+            "subject_name": "Tafsir",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#FFECB3"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          },
+          {
+            "period": 2,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#C5CAE9"
+          },
+          {
+            "period": 3,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 4,
+            "subject_id": 26,
+            "subject_name": "Geology",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#E1F5FE"
+          },
+          {
+            "period": 5,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 6,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 7,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E8EAF6"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          },
+          {
+            "period": 2,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 3,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 4,
+            "subject_id": 28,
+            "subject_name": "Tafsir",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#FFECB3"
+          },
+          {
+            "period": 5,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 6,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#C5CAE9"
+          },
+          {
+            "period": 7,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 2,
+            "subject_id": 18,
+            "subject_name": "Sport",
+            "teacher_id": 81,
+            "teacher_name": "Dawood",
+            "subject_color": "#D1C4E9"
+          },
+          {
+            "period": 3,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 4,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#C5CAE9"
+          },
+          {
+            "period": 5,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 6,
+            "subject_id": 21,
+            "subject_name": "Geography",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FFE0B2"
+          },
+          {
+            "period": 7,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E8EAF6"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 24,
+            "subject_name": "Biology",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#FBE9E7"
+          },
+          {
+            "period": 2,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 3,
+            "subject_id": null,
+            "subject_name": null,
+            "teacher_id": null,
+            "teacher_name": null,
+            "subject_color": null
+          },
+          {
+            "period": 4,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 5,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 6,
+            "subject_id": 20,
+            "subject_name": "History",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FAFAFA"
+          },
+          {
+            "period": 7,
+            "subject_id": 28,
+            "subject_name": "Tafsir",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#FFECB3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_id": 42,
+    "class_name": "11th-A",
+    "timetable": [
+      {
+        "day": "Saturday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 2,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 3,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 4,
+            "subject_id": 21,
+            "subject_name": "Geography",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FFE0B2"
+          },
+          {
+            "period": 5,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          },
+          {
+            "period": 6,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#C5CAE9"
+          },
+          {
+            "period": 7,
+            "subject_id": 24,
+            "subject_name": "Biology",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#FBE9E7"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 28,
+            "subject_name": "Tafsir",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#FFECB3"
+          },
+          {
+            "period": 2,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 3,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 4,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          },
+          {
+            "period": 5,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 6,
+            "subject_id": 24,
+            "subject_name": "Biology",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#FBE9E7"
+          },
+          {
+            "period": 7,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#FFEBEE"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 28,
+            "subject_name": "Tafsir",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#FFECB3"
+          },
+          {
+            "period": 2,
+            "subject_id": 18,
+            "subject_name": "Sport",
+            "teacher_id": 81,
+            "teacher_name": "Dawood",
+            "subject_color": "#D1C4E9"
+          },
+          {
+            "period": 3,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#C5CAE9"
+          },
+          {
+            "period": 4,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          },
+          {
+            "period": 5,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 6,
+            "subject_id": 21,
+            "subject_name": "Geography",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FFE0B2"
+          },
+          {
+            "period": 7,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#FFEBEE"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 2,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#C5CAE9"
+          },
+          {
+            "period": 3,
+            "subject_id": 24,
+            "subject_name": "Biology",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#FBE9E7"
+          },
+          {
+            "period": 4,
+            "subject_id": 20,
+            "subject_name": "History",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FAFAFA"
+          },
+          {
+            "period": 5,
+            "subject_id": null,
+            "subject_name": null,
+            "teacher_id": null,
+            "teacher_name": null,
+            "subject_color": null
+          },
+          {
+            "period": 6,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 7,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#FFEBEE"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#F5F5F5"
+          },
+          {
+            "period": 2,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 3,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#C5CAE9"
+          },
+          {
+            "period": 4,
+            "subject_id": 24,
+            "subject_name": "Biology",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#FBE9E7"
+          },
+          {
+            "period": 5,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 6,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 7,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#E8E8E8"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          },
+          {
+            "period": 2,
+            "subject_id": 20,
+            "subject_name": "History",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FAFAFA"
+          },
+          {
+            "period": 3,
+            "subject_id": 28,
+            "subject_name": "Tafsir",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#FFECB3"
+          },
+          {
+            "period": 4,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 5,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 6,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 7,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#FFEBEE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class_id": 43,
+    "class_name": "12th-A",
+    "timetable": [
+      {
+        "day": "Saturday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 28,
+            "subject_name": "Tafsir",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#FFECB3"
+          },
+          {
+            "period": 2,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 3,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 4,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 5,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#C5CAE9"
+          },
+          {
+            "period": 6,
+            "subject_id": 24,
+            "subject_name": "Biology",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#FBE9E7"
+          },
+          {
+            "period": 7,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#F5F5F5"
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 2,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          },
+          {
+            "period": 3,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#C5CAE9"
+          },
+          {
+            "period": 4,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 5,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 6,
+            "subject_id": 21,
+            "subject_name": "Geography",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FFE0B2"
+          },
+          {
+            "period": 7,
+            "subject_id": 14,
+            "subject_name": "Pashto",
+            "teacher_id": 75,
+            "teacher_name": "Qahraman",
+            "subject_color": "#F5F5F5"
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 2,
+            "subject_id": 24,
+            "subject_name": "Biology",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#FBE9E7"
+          },
+          {
+            "period": 3,
+            "subject_id": 17,
+            "subject_name": "Computer",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#E8E8E8"
+          },
+          {
+            "period": 4,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 5,
+            "subject_id": 20,
+            "subject_name": "History",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FAFAFA"
+          },
+          {
+            "period": 6,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 7,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 24,
+            "subject_name": "Biology",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#FBE9E7"
+          },
+          {
+            "period": 2,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 3,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          },
+          {
+            "period": 4,
+            "subject_id": 11,
+            "subject_name": "Dari",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E0F2F1"
+          },
+          {
+            "period": 5,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 6,
+            "subject_id": 28,
+            "subject_name": "Tafsir",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#FFECB3"
+          },
+          {
+            "period": 7,
+            "subject_id": 20,
+            "subject_name": "History",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FAFAFA"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 18,
+            "subject_name": "Sport",
+            "teacher_id": 81,
+            "teacher_name": "Dawood",
+            "subject_color": "#D1C4E9"
+          },
+          {
+            "period": 2,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E8EAF6"
+          },
+          {
+            "period": 3,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 4,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 5,
+            "subject_id": 21,
+            "subject_name": "Geography",
+            "teacher_id": 78,
+            "teacher_name": "Marhabah",
+            "subject_color": "#FFE0B2"
+          },
+          {
+            "period": 6,
+            "subject_id": 25,
+            "subject_name": "Chemistry",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#B2DFDB"
+          },
+          {
+            "period": 7,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#C5CAE9"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "periods": [
+          {
+            "period": 1,
+            "subject_id": 3,
+            "subject_name": "Math",
+            "teacher_id": 74,
+            "teacher_name": "Ansarullah",
+            "subject_color": "#FFEBEE"
+          },
+          {
+            "period": 2,
+            "subject_id": 23,
+            "subject_name": "Physics",
+            "teacher_id": 79,
+            "teacher_name": "Habibullah",
+            "subject_color": "#C5CAE9"
+          },
+          {
+            "period": 3,
+            "subject_id": 24,
+            "subject_name": "Biology",
+            "teacher_id": 76,
+            "teacher_name": "M.Shershah",
+            "subject_color": "#FBE9E7"
+          },
+          {
+            "period": 4,
+            "subject_id": null,
+            "subject_name": null,
+            "teacher_id": null,
+            "teacher_name": null,
+            "subject_color": null
+          },
+          {
+            "period": 5,
+            "subject_id": 28,
+            "subject_name": "Tafsir",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#FFECB3"
+          },
+          {
+            "period": 6,
+            "subject_id": 29,
+            "subject_name": "Donyat",
+            "teacher_id": 77,
+            "teacher_name": "M.Mansoor",
+            "subject_color": "#B3E5FC"
+          },
+          {
+            "period": 7,
+            "subject_id": 15,
+            "subject_name": "English",
+            "teacher_id": 80,
+            "teacher_name": "Said",
+            "subject_color": "#E8EAF6"
+          }
+        ]
+      }
+    ]
+  }
+]
